@@ -13,4 +13,9 @@ fun main(){
     println(name.get(1))
     name="Jack"
     println(name)
+
+    val weight:Float=65.5f
+    val isAdult=false;
+    val c='A'
+    println(c)
 }
